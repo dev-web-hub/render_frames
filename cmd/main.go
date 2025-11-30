@@ -4,7 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "os"
-    "github.com/max/render_frames/internal"
+    "yourverb/internal"
 )
 
 func main() {

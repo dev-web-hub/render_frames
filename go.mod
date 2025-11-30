@@ -1,3 +1,3 @@
-module github.com/max/render_frames
+module github.com/dev-web-hub/render_frames
 
 go 1.22
